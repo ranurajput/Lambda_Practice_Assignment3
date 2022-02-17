@@ -1,5 +1,5 @@
 # Lambda_Practice_Assignment3
-#Write a lambda expression that accepts seven (!) string arguments and returns a string in upper case concatenated from all of them (in the order of arguments).
+# Write a lambda expression that accepts seven (!) string arguments and returns a string in upper case concatenated from all of them (in the order of arguments).
 
 Sample Input:
 
